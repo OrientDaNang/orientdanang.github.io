@@ -41,8 +41,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'simpleai'
-copyright = u'2012, Juan Pedro Fisanotti'
+project = u'Orient'
+copyright = u'2012, Test'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -229,7 +229,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'simpleai', u'simpleai Documentation',
-   u'Juan Pedro Fisanotti', 'simpleai', 'One line description of project.',
+   u'hallo', 'simpleai', 'One line description of project.',
    'Miscellaneous'),
 ]
 
