@@ -1,43 +1,28 @@
-Orient AI
+About Orient Software
 =========
+Orient Software opened for business in 2005. Today, Orient is Vietnam’s Number 1 software development company. After almost 15 years of offering professional IT solutions, Orient’s strong team of 200 skilled and experienced IT experts collaborate to provide software development solutions to clients with small to corporate-sized businesses worldwide. Our client list at Orient includes companies ranging from hot, new start-ups to well-established corporations. Our clients know that using our professional staff for IT needs helps to increase income streams, build or improve communication channels, and simplify operations.
 
-Project home: http://github.com/orientsoftware.github.io
+Project home: http://github.com/orientdanang.github.io
 
-ABC
-
-* Search
-    * Subcontent 1
-    * Subcontent 2
-    * Subcontent 3
-    * Subcontent 4
-* Title 2
-    * Subcontent 2.1
-
-Instruction
+Partnering with Our Clients
 ============
 
-This is Instruction
+At Orient Software, our priority is to create long-lasting, trust-based partnerships with you by providing the most professional services and solutions in the industry. We are dedicated to meeting your IT needs today and supporting your IT needs as your business gains success.
 
-Examples
-========
-
-This problem tries to create the string "HELLO WORLD" u:
-
-.. code-block:: python
-
-    print("hello"))
-
-
-More detailed documentation
+Contact Us
 ===========================
 
-This is detail ABC XYZ
++84 28 3812 0101 (EN)
++81 35 403 5934 (日本語)
+sales@orientsoftware.com
 
-Help and discussion
-===================
+Head office - Ho Chi Minh City
+5th floor, Suite 5.8, e.town 1 building, 364 Cong Hoa Str,
+Ward 13, Tan Binh Dist, Ho Chi Minh City, Vietnam
 
-Join u,s Orient Software
-
+Branch office - Da Nang City
+10th-11th floor, PGT Tower building, 220 Nguyen Huu Tho Str,
+Hoa Thuan Tay Ward, Hai Chau Dist, Da Nang City, Vietnam
     
 Authors
 =======
