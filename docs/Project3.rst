@@ -1,4 +1,4 @@
-Search algorithms
+Project3
 =================
 
 *AIMA Book chapters recommended: 2 (Intelligent agents), 3 (Solving problems by searching)*

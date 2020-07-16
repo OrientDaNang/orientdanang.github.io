@@ -1,4 +1,4 @@
-Statistical Classification
+AI Project
 ==========================
 
 *AIMA Book chapters recommended: 18.3 (Learning Decision Trees), 18.4 (Evaluating and Choosing The Best Hypothesis)*

@@ -1,4 +1,4 @@
-Constraint satisfaction problems
+Project1
 ================================
 
 *AIMA Book chapters recommended: 2 (Intelligent agents), 3 (Solving problems by searching), 4 (Beyond classical search), 6 (Constraint satisfaction problems)*

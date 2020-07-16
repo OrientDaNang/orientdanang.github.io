@@ -10,6 +10,6 @@ Contents:
     * :doc:`Project3`
     * :doc:`Project4`
 * Machine Learning - AI:
-    * :doc:`classification`
+    * :doc:`AI-Project`
 
 .. include:: ../README.rst

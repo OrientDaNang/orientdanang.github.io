@@ -1,4 +1,4 @@
-Local search algorithms
+Project2
 =======================
 
 *AIMA Book chapters recommended: 2 (Intelligent agents), 3 (Solving problems by searching), 4 (Beyond classical search)*
