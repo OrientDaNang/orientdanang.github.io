@@ -11,8 +11,4 @@ Discover our Project
 * Machine Learning - AI:
     * :doc:`AI-Project`
     
-    
-About Us
-========
-
-.. include :: ../README.rst
+.. include:: ../README.rst
