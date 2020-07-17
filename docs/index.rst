@@ -1,8 +1,3 @@
-Welcome to OrientSoftware's documentation!
-====================================
-
-* :doc:`Introduction (this page)<index>`
-
 .. toctree::
     :caption: Our Project
     :maxdepth: 4
