@@ -1,14 +1,22 @@
+Welcome to OrientSoftware's documentation
+=======================================
+
+Discover our Project
+--------------------
+
 .. toctree::
     :caption: Our Project
     :maxdepth: 4
-    AI-Project
-    Project1
-    Project2
-    Project3
-    Project4
+    /docs/AI-Project
+    /docs/Project1
+    /docs/Project2
+    /docs/Project3
+    /docs/Project4
+About Us
+--------
 
 .. toctree::
     :caption: About Orient Software
     :maxdepth: 2
 
-    README
+    /docs/README
