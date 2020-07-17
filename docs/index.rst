@@ -3,7 +3,7 @@ Welcome to OrientSoftware's documentation!
 
 * :doc:`Introduction (this page)<index>`
 
-..toctree::
+.. toctree::
     :caption: Our Project
     :maxdepth: 4
     AI-Project
@@ -12,9 +12,8 @@ Welcome to OrientSoftware's documentation!
     Project3
     Project4
 
-..toctree::
+.. toctree::
     :caption: About Orient Software
     :maxdepth: 2
 
     README
-
