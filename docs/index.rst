@@ -1,15 +1,20 @@
 Welcome to OrientSoftware's documentation!
 ====================================
 
-Contents:
-
 * :doc:`Introduction (this page)<index>`
-* Project:
-    * :doc:`Project1`
-    * :doc:`Project2`
-    * :doc:`Project3`
-    * :doc:`Project4`
-* Machine Learning - AI:
-    * :doc:`AI-Project`
 
-.. include:: ../README.rst
+..toctree::
+    :caption: Our Project
+    :maxdepth: 4
+    AI-Project
+    Project1
+    Project2
+    Project3
+    Project4
+
+..toctree::
+    :caption: About Orient Software
+    :maxdepth: 2
+
+    README
+
