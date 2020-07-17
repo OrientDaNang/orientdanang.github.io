@@ -3,20 +3,16 @@ Welcome to OrientSoftware's documentation
 
 Discover our Project
 --------------------
-
-.. toctree::
-    :caption: Our Project
-    :maxdepth: 4
-    /docs/AI-Project
-    /docs/Project1
-    /docs/Project2
-    /docs/Project3
-    /docs/Project4
+* Project:
+    * :doc:`Project1`
+    * :doc:`Project2`
+    * :doc:`Project3`
+    * :doc:`Project4`
+* Machine Learning - AI:
+    * :doc:`AI-Project`
+    
+    
 About Us
---------
+========
 
-.. toctree::
-    :caption: About Orient Software
-    :maxdepth: 2
-
-    /docs/README
+.. include :: ../README.rst
