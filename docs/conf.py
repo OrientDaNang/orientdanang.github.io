@@ -98,7 +98,7 @@ html_theme = 'default'
 # further.  For a list of options available for each theme, see the
 # documentation.
 html_theme_options = {
-  "logo_only":Yes,
+  "logo_only":True,
   "collapse_navigation": False,
 }
 
