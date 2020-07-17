@@ -2,6 +2,7 @@ About Orient Software
 =========
 Orient Software opened for business in 2005. Today, Orient is Vietnam’s Number 1 software development company. After almost 15 years of offering professional IT solutions, Orient’s strong team of 200 skilled and experienced IT experts collaborate to provide software development solutions to clients with small to corporate-sized businesses worldwide. Our client list at Orient includes companies ranging from hot, new start-ups to well-established corporations. Our clients know that using our professional staff for IT needs helps to increase income streams, build or improve communication channels, and simplify operations.
 
+Homepage: https://orientsoftware.com
 Project home: http://github.com/orientdanang.github.io
 
 Partnering with Our Clients
