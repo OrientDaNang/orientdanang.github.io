@@ -9,6 +9,6 @@ Discover our Project
     * :doc:`Project3`
     * :doc:`Project4`
 * Machine Learning - AI:
-    * :doc:`AI-Research-Standard`
+    * :doc:`AI Research Standard`
     
 .. include:: ../README.rst
