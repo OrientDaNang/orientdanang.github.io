@@ -3,12 +3,12 @@ Welcome to OrientSoftware's documentation
 
 Discover our Project
 --------------------
-* Project:
+* Web Project:
     * :doc:`Project1`
     * :doc:`Project2`
     * :doc:`Project3`
     * :doc:`Project4`
 * Machine Learning - AI:
-    * :doc:`AI-Project`
+    * :doc:`AI-Research-Standard`
     
 .. include:: ../README.rst
