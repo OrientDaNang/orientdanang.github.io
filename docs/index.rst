@@ -16,5 +16,4 @@ Machine Learning - AI
 
     * :doc:`AI Machine Learning`
 
-
 .. include:: ../README.rst
