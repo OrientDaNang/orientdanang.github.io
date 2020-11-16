@@ -49,11 +49,11 @@ Research documentation samples:
 
 
 .. toctree::
-  :maxdepth: 2
-  :hidden:
-  :caption: AI Research Suggestion
+    :maxdepth: 2
+    :hidden:
+    :caption: AI Research Suggestion
 
-  /ai-research/sample-research
+    /ai-research/sample-research
 
 
 AI Project Suggestion
@@ -93,3 +93,11 @@ Target:
  - Follow clean code standard.
 
 Project samples
+
+
+.. toctree::
+    :maxdepth: 2
+    :hidden:
+    :caption: AI Project Suggestion
+
+    /ai-research/sample-research
