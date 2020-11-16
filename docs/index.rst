@@ -17,8 +17,7 @@ Web Project
     :hidden:
     :caption: AI Project Suggestion
 
-    /ai-research/sample-research
-
+    /ai-project
 
 Machine Learning - AI
 ---------------------
@@ -31,7 +30,7 @@ Machine Learning - AI
     :hidden:
     :caption: AI Project Suggestion
 
-    /ai-research/sample-research
+    /ai-research
 
 
 .. include:: ../README.rst
