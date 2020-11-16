@@ -11,9 +11,27 @@ Web Project
     * :doc:`Project3`
     * :doc:`Project4`
 
+
+.. toctree::
+    :maxdepth: 2
+    :hidden:
+    :caption: AI Project Suggestion
+
+    /ai-research/sample-research
+
+
 Machine Learning - AI
 ---------------------
 
     * :doc:`AI Machine Learning`
+
+
+.. toctree::
+    :maxdepth: 2
+    :hidden:
+    :caption: AI Project Suggestion
+
+    /ai-research/sample-research
+
 
 .. include:: ../README.rst
