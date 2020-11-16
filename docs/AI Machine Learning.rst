@@ -46,6 +46,15 @@ Research paper use LaTeX format, online LaTeX tools can be used, can use free pl
 
 Research documentation samples
 
+
+.. toctree::
+  :maxdepth: 2
+  :hidden:
+  :caption: AI Research Suggestion
+
+  /ai-research/sample-research
+
+
 AI Project Suggestion
 ---------------------
 
