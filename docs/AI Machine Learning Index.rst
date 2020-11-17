@@ -1,4 +1,4 @@
-Welcome to OrientSoftware's AI Division
+OrientSoftware's AI Division
 =======================================
 
 AI Research
@@ -14,7 +14,7 @@ Discover our research
     :hidden:
     :caption: AI Research Suggestion
 
-    /ai-research
+    /AI Machine Learning Research
 
 
 AI Project
@@ -29,4 +29,4 @@ Discover our projects
     :hidden:
     :caption: AI Project Suggestion
 
-    /ai-project
+    /AI Machine Learning Project
