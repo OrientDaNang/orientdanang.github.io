@@ -16,13 +16,4 @@ Machine Learning - AI
 
     * :doc:`AI - Machine Learning</AI Machine Learning Index>`
 
-
-.. toctree::
-    :maxdepth: 2
-    :hidden:
-    :caption: AI Project Suggestion
-
-    /ai-research
-    /ai-project
-
 .. include:: ../README.rst

@@ -1,9 +1,24 @@
 Welcome to OrientSoftware's AI Division
 =======================================
 
-Discover our Research
+AI Research
+-----------
+
+Discover our research
 
     * :doc:`AI Research</AI Machine Learning Research>`
+
+
+.. toctree::
+    :maxdepth: 2
+    :hidden:
+    :caption: AI Research Suggestion
+
+    /ai-research
+
+
+AI Project
+-----------
 
 Discover our projects
 
@@ -14,5 +29,4 @@ Discover our projects
     :hidden:
     :caption: AI Project Suggestion
 
-    /ai-research
     /ai-project
