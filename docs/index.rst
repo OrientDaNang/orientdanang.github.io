@@ -14,8 +14,7 @@ Web Project
 Machine Learning - AI
 ---------------------
 
-    * :doc:`AI Research</AI Machine Learning Research>`
-    * :doc:`AI Project</AI Machine Learning Project>`
+    * :doc:`AI - Machine Learning</AI Machine Learning Index>`
 
 
 .. toctree::
