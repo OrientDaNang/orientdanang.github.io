@@ -14,6 +14,6 @@ Web Project
 Machine Learning - AI
 ---------------------
 
-    * :doc:`AI - Machine Learning</AI Machine Learning Index>`
+    * :doc:`AI - Machine Learning</AI-Machine-Learning-Index>`
 
 .. include:: ../README.rst
