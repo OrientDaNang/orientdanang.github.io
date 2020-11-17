@@ -12,7 +12,7 @@ Discover our research
 .. toctree::
     :maxdepth: 2
     :hidden:
-    :caption: AI Research
+    :caption: AI Machine Learning Research
 
     /AI-Machine-Learning-Research
 
@@ -27,6 +27,6 @@ Discover our projects
 .. toctree::
     :maxdepth: 2
     :hidden:
-    :caption: AI Project
+    :caption: AI Machine Learning Project
 
     /AI-Machine-Learning-Project
