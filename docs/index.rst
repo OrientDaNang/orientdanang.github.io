@@ -5,11 +5,21 @@ Discover our Project
 
 Web Project
 -------------------
+  :doc:`Project1`
+  :doc:`Project2`
+  :doc:`Project3`
+  :doc:`Project4`
 
-    * :doc:`Project1`
-    * :doc:`Project2`
-    * :doc:`Project3`
-    * :doc:`Project4`
+.. toctree::
+    :maxdepth: 2
+    :hidden:
+    :caption: Web Project
+
+    /Project1
+    /Project2
+    /Project3
+    /Project4
+
 
 Machine Learning - AI
 ---------------------
@@ -18,7 +28,8 @@ Machine Learning - AI
 
 Discover AI Machine Learning Division:
   :doc:`AI Research</ai-research/index>` |
-  :doc:`AI Project </ai-project/index>` |
+  :doc:`AI Project </ai-project/index>`
+
 
 .. toctree::
     :maxdepth: 2
