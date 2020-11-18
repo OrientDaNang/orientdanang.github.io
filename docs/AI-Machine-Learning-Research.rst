@@ -42,11 +42,11 @@ All the general information such as input, output, samples go here.
 Writing a research paper
 ---------------------
 
-* **LaTeX format**
+* **LaTeX format**:
 
 Research paper use LaTeX format, online LaTeX tools can be used, can use free plan: https://www.overleaf.com/
 
-Research documentation samples: 
+* **Research documentation samples**: 
     :doc:`Samples </ai-research/sample-research>`
 
 

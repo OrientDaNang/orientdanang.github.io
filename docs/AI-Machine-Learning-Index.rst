@@ -14,7 +14,7 @@ Discover our research
     :hidden:
     :caption: AI Machine Learning Research
 
-    /AI-Machine-Learning-Research
+    /ai-research/sample-research
 
 
 AI Project
@@ -29,4 +29,4 @@ Discover our projects
     :hidden:
     :caption: AI Machine Learning Project
 
-    /AI-Machine-Learning-Project
+    /ai-research/sample-project
