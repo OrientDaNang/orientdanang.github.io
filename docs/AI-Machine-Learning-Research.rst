@@ -42,6 +42,8 @@ All the general information such as input, output, samples go here.
 Writing a research paper
 ---------------------
 
+* **LaTeX format**
+
 Research paper use LaTeX format, online LaTeX tools can be used, can use free plan: https://www.overleaf.com/
 
 Research documentation samples: 
