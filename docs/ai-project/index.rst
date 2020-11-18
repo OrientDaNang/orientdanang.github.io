@@ -12,4 +12,4 @@ Sample Project
     :hidden:
     :caption: AI Project
 
-    ./sample-project
+    /sample-project

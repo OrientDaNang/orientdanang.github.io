@@ -12,4 +12,4 @@ Sample Research
     :hidden:
     :caption: AI Research
 
-    ./sample-research
+    /sample-research
