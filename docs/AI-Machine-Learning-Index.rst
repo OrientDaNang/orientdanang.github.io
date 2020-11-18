@@ -6,7 +6,7 @@ AI Research
 
 Discover our research
 
-    * :doc:`AI Research</AI-Machine-Learning-Research>`
+    * :doc:`AI Research</ai-research/index>`
 
 
 .. toctree::
@@ -14,7 +14,7 @@ Discover our research
     :hidden:
     :caption: AI Machine Learning Research
 
-    /ai-research/sample-research
+    /ai-research/index
 
 
 AI Project
@@ -22,11 +22,11 @@ AI Project
 
 Discover our projects
 
-    * :doc:`AI Project</AI-Machine-Learning-Project>`
+    * :doc:`AI Project</ai-research/index>`
 
 .. toctree::
     :maxdepth: 2
     :hidden:
     :caption: AI Machine Learning Project
 
-    /ai-research/sample-project
+    /ai-research/index
