@@ -16,9 +16,9 @@ Machine Learning - AI
 
     * :doc:`AI - Machine Learning</AI-Machine-Learning-Index>`
 
-Discover AI Project:
-  :doc:`With Sphinx </ai-research/index>` |
-  :doc:`With MkDocs </ai-project/index>` |
+Discover AI Machine Learning Division:
+  :doc:`AI Research</ai-research/index>` |
+  :doc:`AI Project </ai-project/index>` |
 
 .. toctree::
     :maxdepth: 2
