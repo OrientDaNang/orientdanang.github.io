@@ -16,4 +16,16 @@ Machine Learning - AI
 
     * :doc:`AI - Machine Learning</AI-Machine-Learning-Index>`
 
+Discover AI Project:
+  :doc:`With Sphinx </ai-research/index>` |
+  :doc:`With MkDocs </ai-project/index>` |
+
+.. toctree::
+    :maxdepth: 2
+    :hidden:
+    :caption: AI Machine Learning
+
+    /ai-research/index
+    /ai-project/index
+
 .. include:: ../README.rst

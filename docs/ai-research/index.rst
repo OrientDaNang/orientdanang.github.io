@@ -4,4 +4,4 @@ AI Research
 Sample Research
 --------------
 
-    * :doc:`Sample Project</sample-research>`
+    * :doc:`Sample Research<./sample-research>`
